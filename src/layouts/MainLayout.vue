@@ -38,4 +38,4 @@ export default {
         Navbar, Sidebar
     }
 }
-</script>
+</script> 
